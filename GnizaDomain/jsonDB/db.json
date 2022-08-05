@@ -1,0 +1,183 @@
+{
+  "Cities": [
+    {
+      "cityId": "1",
+      "cityName": "ירושליים"
+    },
+    {
+      "cityId": "2",
+      "cityName": "תל אביב"
+    },
+    {
+      "cityId": "3",
+      "cityName": "בני ברק"
+    },
+    {
+      "cityId": "4",
+      "cityName": "בית שמש"
+    },
+    {
+      "cityId": "5",
+      "cityName": "טבריה"
+    },
+    {
+      "cityId": "6",
+      "cityName": "אשדוד"
+    }
+  ],
+
+  "Streets": [
+    {
+      "streetId": "1",
+      "streetName": "ירמיהו",
+      "cityId": "1"
+    },
+    {
+      "streetId": "2",
+      "streetName": "בר אילן",
+      "cityId": "1"
+    },
+    {
+      "streetId": "3",
+      "streetName": "שמגר",
+      "cityId": "1"
+    },
+    {
+      "streetId": "4",
+      "streetName": "גולדה מאיר",
+      "cityId": "1"
+    },
+    {
+      "streetId": "5",
+      "streetName": "שמואל הנביא",
+      "cityId": "1"
+    },
+
+    {
+      "streetId": "6",
+      "streetName": "ארלוזורוב",
+      "cityId": "2"
+    },
+    {
+      "streetId": "7",
+      "streetName": "דיזינגוף",
+      "cityId": "2"
+    },
+    {
+      "streetId": "8",
+      "streetName": "שדרות רוטשילד",
+      "cityId": "2"
+    },
+    {
+      "streetId": "9",
+      "streetName": "הירקון",
+      "cityId": "2"
+    },
+    {
+      "streetId": "10",
+      "streetName": "שדרות בן גוריון",
+      "cityId": "2"
+    },
+
+    {
+      "streetId": "11",
+      "streetName": "רבי עקיבא",
+      "cityId": "3"
+    },
+    {
+      "streetId": "12",
+      "streetName": "חזון איש",
+      "cityId": "3"
+    },
+    {
+      "streetId": "13",
+      "streetName": "חתם סופר",
+      "cityId": "3"
+    },
+    {
+      "streetId": "14",
+      "streetName": "עזרא",
+      "cityId": "3"
+    },
+    {
+      "streetId": "15",
+      "streetName": "השומר",
+      "cityId": "3"
+    },
+    {
+      "streetId": "16",
+      "streetName": "נהר הירדן",
+      "cityId": "4"
+    },
+    {
+      "streetId": "17",
+      "streetName": "נחל שורק",
+      "cityId": "4"
+    },
+    {
+      "streetId": "18",
+      "streetName": "שפת אמת",
+      "cityId": "4"
+    },
+    {
+      "streetId": "19",
+      "streetName": "מעפילי אגוז",
+      "cityId": "4"
+    },
+    {
+      "streetId": "20",
+      "streetName": " בן זאב",
+      "cityId": "4"
+    },
+    {
+      "streetId": "21",
+      "streetName": "ביאליק",
+      "cityId": "5"
+    },
+    {
+      "streetId": "22",
+      "streetName": "אלונים",
+      "cityId": "5"
+    },
+    {
+      "streetId": "23",
+      "streetName": "דוד המלך",
+      "cityId": "5"
+    },
+    {
+      "streetId": "24",
+      "streetName": "השופטים",
+      "cityId": "5"
+    },
+    {
+      "streetId": "25",
+      "streetName": "בר כוכבא",
+      "cityId": "5"
+    },
+    {
+      "streetId": "26",
+      "streetName": "שדרות הרצל",
+      "cityId": "6"
+    },
+    {
+      "streetId": "27",
+      "streetName": "יצחק הנשיא",
+      "cityId": "6"
+    },
+    {
+      "streetId": "28",
+      "streetName": "שדרות בני ברית",
+      "cityId": "6"
+    },
+    {
+      "streetId": "29",
+      "streetName": "שדרות משה דיין",
+      "cityId": "6"
+    },
+    {
+      "streetId": "30",
+      "streetName": "קרן היסוד",
+      "cityId": "6"
+    }
+  ]
+}

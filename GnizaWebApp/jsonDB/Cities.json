@@ -1,0 +1,29 @@
+
+  [
+    {
+      "cityId": "1",
+      "cityName": "ירושליים"
+    },
+    {
+      "cityId": "2",
+      "cityName": "תל אביב"
+    },
+    {
+      "cityId": "3",
+      "cityName": "בני ברק"
+    },
+    {
+      "cityId": "4",
+      "cityName": "בית שמש"
+    },
+    {
+      "cityId": "5",
+      "cityName": "טבריה"
+    },
+    {
+      "cityId": "6",
+      "cityName": "אשדוד"
+    },
+  ]
+
+
